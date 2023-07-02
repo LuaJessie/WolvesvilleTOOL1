@@ -80,7 +80,7 @@ window.addEventListener('load', function () {
                 width='50' height='50'></button>
         <div class='modal' id='modal'>
             <div class='modal-header'>
-                <div class='title'>Wolvesville Helper</div>
+                <div class='title'Avane's TOOL</div>
                 <button data-close-button class='close-button'>&times;</button>
             </div>
             <div class='modal-body'>
@@ -103,20 +103,20 @@ window.addEventListener('load', function () {
                     <h4 style="height: 1px; color: white;">Socials and Other</h4>
                     <div class="modal-body-main-other">
     
-                        <a href="https://www.youtube.com/channel/UCldtxjrCMtRHJzCUuA8b3kw?sub_confirmation=1"
+                        <a href="https://www.youtube.com/channel/UCP0I1dCuRaSblQlIyBbPO9A?sub_confirmation=1"
                             target="_blank"><img src="https://img.icons8.com/color/1x/youtube-play.png" alt=""></a>
     
-                        <a href="https://discord.gg/prp8vGKGdy" target="_blank"><img
+                        <a href="https://discord.gg/uSuThKSWcZ" target="_blank"><img
                                 src="https://img.icons8.com/color/1x/discord--v2.png" alt=""></a>
     
-                        <a href="https://steamcommunity.com/id/mrRedScorpion/" target="_blank"><img
+                        <a href="https://steamcommunity.com/id/eldersupremekai/" target="_blank"><img
                                 src="https://img.icons8.com/fluency/1x/steam.png" alt=""></a>
     
-                        <a href="https://www.paypal.com/donate?hosted_button_id=FM8WEPNHK5XAE" target="_blank"><img
+                        <a href="" target="_blank"><img
                                 src="https://img.icons8.com/color/1x/paypal.png" alt=""></a>
     
                     </div>
-                    <p style="text-align: center;">By RedScorpion</p>
+                    <p style="text-align: center;">By Jessie AVANE</p>
                 </div>
             </div>
         </div>
